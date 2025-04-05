@@ -47,7 +47,7 @@ Crie uma API RESTful em Node.js para um sistema de cadastro de livros. A API dev
 - Inclua tratamento de erros e validações adequadas para todos os endpoints.
 - Adicione comentários no código para explicar as principais partes da implementação.
 
-## **Subindo a API 🚀**
+## **Subindo a API 🚀🚀**
 
 1. Clonar o repositório e instalar as dependências:
 
